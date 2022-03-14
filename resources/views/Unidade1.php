@@ -18,44 +18,13 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
-            
+
+            div{
+                text-align: center;
+            }
         </style>
     </head>
     <body class="antialiased">
-        <div class="Sobre" style="text-align:justify">
-            <h1>SOBRE O CURSO</h1>
-                <p>Neste curso você terá a oportunidade de aprender a Lingua Brasileira de Sinais de forma contextualizada,</p>
-                adiquirindo o vocabulario basico para utiliza-lo adequadamente na comunicação com pessoas surdas.</p>
-        </div>
-            <div class="Conteudo" style="text-align:justify">
-                <h3>Conteudo</h3>
-                    <div class="Unidade 1">
-                    <dt><h3>Unidade 1</h3></dt>
-                        <dd>Alfabeto e Datilogia em libras</dd>
-                        <dd>Sinais e Pronomes Pessoais</dd>
-                        <dd>Saudações/Cumprimentos</dd>
-                        <dd>Sinais de Numerais</dd>
-                        <dd>Diálogos</dd>
-                    </div>
-                    <div class="Unidade 2">
-                        <dt><h3>Unidade 2</h3></dt>
-                        <dd>Sinais de calendario e dias da semana em libras </dd>
-                        <dd>Sinais de Advérbios de tempo</dd>
-                        <dd>Sinais de Expressões faciais e tipos de frases em libras</dd>
-                        <dd>Diálogos</dd>
-                    </div>
-                    <div class="Unidade 3">
-                        <dt><h3>Unidade 3</h3></dt>
-                        <dd>Gramática</dd>
-                        <dd>Sinais de relações de parentesco/família</dd>
-                    </div>
-                    <div class="Unidade 4">
-                        <dt><h3>Unidade 4</h3></dt>
-                        <dd>Sinais de sentimentos e Antônomias</dd>
-                    </div>
-                    <div class="Unidade 5">
-                        <dt><h3>Unidade 5</h3></dt>
-                    </div>
-            </div>
+       Aqui será o primeiro conteudo a ser ensinado
     </body>
 </html>
